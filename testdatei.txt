@@ -5,3 +5,4 @@ nun > git commit --amend
 Beispielausgabe beim commit
 
 neuer commit
+nun test
