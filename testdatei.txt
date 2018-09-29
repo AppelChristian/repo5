@@ -6,3 +6,7 @@ Beispielausgabe beim commit
 
 neuer commit
 nun test
+
+git commit --amend
+
+teil2
