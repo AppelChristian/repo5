@@ -18,3 +18,5 @@ teil4
 teil5
 teil6
 teil7
+
+nun wird etwas am Server geschrieben
