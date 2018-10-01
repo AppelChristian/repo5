@@ -20,3 +20,5 @@ teil6
 teil7
 
 nun wird etwas am Server geschrieben
+
+nun wird etwas lokal geschrieben und gepusht
